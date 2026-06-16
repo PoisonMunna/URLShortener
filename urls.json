@@ -1,0 +1,46 @@
+{
+  "urls": {
+    "suri": {
+      "original_url": "https://chat.deepseek.com/a/chat/s/d6c40969-6012-4b8d-b4aa-2c2db33b5a67",
+      "created_at": "2026-06-16T12:49:25.398528",
+      "clicks": 3,
+      "expiry": "2026-06-19T12:49:25.398539",
+      "password": "12344321",
+      "custom": true
+    },
+    "suril": {
+      "original_url": "https://chat.deepseek.com/a/chat/s/d6c409-6012-4b8d-b4aa-2c2db33b5a67",
+      "created_at": "2026-06-16T12:51:04.404850",
+      "clicks": 1,
+      "expiry": "2026-06-19T12:51:04.404862",
+      "password": null,
+      "custom": true
+    }
+  },
+  "clicks": {
+    "suri": [
+      {
+        "timestamp": "2026-06-16T12:49:33.702854",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.124.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36",
+        "ip": "127.0.0.1"
+      },
+      {
+        "timestamp": "2026-06-16T12:50:07.964713",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.124.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36",
+        "ip": "127.0.0.1"
+      },
+      {
+        "timestamp": "2026-06-16T12:50:21.637360",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.124.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36",
+        "ip": "127.0.0.1"
+      }
+    ],
+    "suril": [
+      {
+        "timestamp": "2026-06-16T12:51:06.833772",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.124.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36",
+        "ip": "127.0.0.1"
+      }
+    ]
+  }
+}
