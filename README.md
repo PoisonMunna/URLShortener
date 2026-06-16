@@ -1,8 +1,8 @@
 # 🔗 URL Shortener - Like bit.ly  
 
-[![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://python.org)  
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)  
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)]()  
+[![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://python.org)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)]()
 
 A professional URL shortener application that creates short, memorable links with analytics, password protection, and expiry dates. Perfect for marketing campaigns, social media, and link management.  
 
